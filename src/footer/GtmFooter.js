@@ -21,7 +21,7 @@ const GtmFooter = () => {
                     <a className='footerAnchor' href='/'>&gt;&gt; Search Engine optimization</a>
                     <a className='footerAnchor' href='/'>&gt;&gt; Social Media Marketing</a>
                 </div>
-                <div className="footerBox">
+                <div className="footerBox secondBox">
                     <a className='footerAnchor' href='/'>&gt;&gt; Pharmacy Management</a>
                     <a className='footerAnchor' href='/'>&gt;&gt; Responsive Website</a>
                     <a className='footerAnchor' href='/'>&gt;&gt; App Development</a>
@@ -30,7 +30,7 @@ const GtmFooter = () => {
                     <a className='footerAnchor' href='/'>&gt;&gt; Graphic Design</a>
                     <a className='footerAnchor' href='/'>&gt;&gt; Social media marketing</a>
                 </div>
-                <div className="footerBox">
+                <div className="footerBox thirdBox">
                     <h2 className='footerService'>Contact Info</h2>
                     <p className='footerAnchor'>&gt;&gt; Mon - Sat 9:30 AM - 6:00 PM</p>
                     <p className='footerAnchor'>&gt;&gt; +919319791129</p>
