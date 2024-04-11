@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.divSvg {
+    background-color: black;
+    height: 32vh;
+}
+
+.mainContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    margin: 0px;
+}
+
+.footerBox {
+    height: 56vh;
+    width: 22vw;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 18px;
+    color: white;
+}
+
+.footerBox .img {
+    width: 103px;
+    height: 100px;
+    border-radius: 48px;
+    margin-top: 45px;
+}
+
+.imageBox {
+    display: flex;
+    align-items: center;
+}
+
+.footerService {
+    margin-bottom: 22px;
+    padding: 5px;
+    color: white;
+}
+
+.footerAnchor {
+    margin: 3px;
+    padding: 3px;
+    color: black;
+    text-decoration: none;
+    font-size: 1.3vmax;
+    color: rgba(220, 218, 218, 0.694);
+}
+
+.icons {
+    display: flex;
+    margin-top: 22px;
+    justify-content: center;
+}
+
+.icons img {
+    width: 35px;
+    height: 30px;
+    margin: 4px;
+}
+
+.bottomFooter {
+    height: 10vh;
+    background-color: black;
+}
+
+.horizontalLine {
+    background-color: antiquewhite;
+    height: 6%;
+    width: 80vw;
+    color: white;
+    margin: auto;
+}
+
+.floatDiv {
+    width: 75vw;
+    margin: 12px auto;
+    color: white;
+}
+
+.bothPara {
+    font-size: 1.3rem;
+}
+
+.leftPara {
+    float: left;
+}
+
+.rightPara {
+    float: right;
+}
